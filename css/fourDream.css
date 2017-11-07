@@ -1,0 +1,229 @@
+.showImg{
+	width: 100%;
+	height: 360px;
+	max-width: 1680px;
+	overflow: hidden;
+	position: relative;
+	margin: 0 auto;
+	
+	
+	
+}
+.showImg img{
+	
+	position: absolute;
+	top:0;
+	left:50%;
+	margin-left: -840px;
+}
+	
+.twoHeader{
+	width: 100%;
+	height: 45px;
+	background: url(../img/fourDream/models-bg.jpg) no-repeat center;
+	
+}
+.sTwoHeader{
+	width: 1000px;
+	margin: 0 auto;
+	position: relative;
+	z-index: 100;
+}	
+.sTwoHeader li{
+	float: left;
+	height: 45px;
+	line-height: 45px;
+	padding: 0 40px;
+	background-size:cover ;
+}
+.sTwoHeader a{
+	color: #fff;	
+}
+.sTwoHeader .a1{
+	color: #2d6a9a;
+}
+.sTwoHeader a:hover{
+	color:#2d6a9a;
+}
+
+
+.videoBox{
+	width: 100%;
+	height: 800px;
+	background: url(../img/fourDream/td-bg1.jpg) no-repeat;
+	position:relative;
+	
+}
+.video{
+	position: absolute;
+	width:1000px;
+	height: 562px;
+	left:50%;
+	background:url(../img/fourDream/td-video.jpg);
+	top:50%;
+	margin-top: -281px;
+	margin-left:-500px;	
+	
+}
+.sunPower{
+	height: 492px;
+	width: 100%;
+	background: url(../img/fourDream/td-bg3.jpg) top center no-repeat;
+}
+.sunPower h3{
+	
+	text-align: center;
+	font-size: 25px;
+	font-weight: 100;
+	position: relative;
+	padding-top:70px;
+	padding-bottom:30px ;
+	color:#888888 ;
+}
+.sunPower h3 i{
+	width:97px;
+	height: 1px;
+	background: #888888;
+	
+}
+.ileft{
+	left:360px;
+	position: absolute;
+	top:87px;
+}
+.iright{
+	left:610px;
+	position: absolute;
+	top:87px;
+}
+.sunPower h2{
+	width:1000px;
+	margin: 0 auto;
+	text-align: center;
+	color:#28a7e1;
+	font-size: 25px;
+	font-weight: 100;
+	
+}
+ .sunPower p{
+ 	text-align: center;
+ 	color: #4c4c4c;;
+ }
+.fourDream{
+	height: 558px;
+	background: url(../img/fourDream/td-bg2.jpg) no-repeat top center;
+	text-align: center;
+	color: #4c4c4c;
+}
+
+.fourDream h1{
+	font-weight: 600;
+	font-size: 32px;
+	padding: 30px 0;
+}
+.cookiePower{
+	position: relative;
+	height: 1024px;
+	background: url(../img/fourDream/td-bg4.jpg) no-repeat top center;
+}
+.cookiePower h3{
+	text-align: center;
+	font-size: 25px;
+	font-weight: 100;
+	position: relative;
+	padding-top:70px;
+	padding-bottom:30px ;
+	color:#888888 ;
+	
+}
+.cookiePower h3 i{
+	width:97px;
+	height: 1px;
+	background: #888888;
+	
+}
+.cookiePower p{
+	text-align: center;
+ 	color: #4c4c4c;;
+}
+dl span{
+	width:5px;
+	height: 5px;
+	background:#28a7e1;
+	display:inline-block;
+	border-radius: 50%;
+	text-align: center;
+	vertical-align: middle;
+
+}
+dl{
+	position: absolute;
+	bottom: 75px;
+	right: 240px;
+	color: #4c4c4c;;
+}
+
+dl dt{
+	font-weight: 600;
+	margin-bottom: 10px;
+	font-size: 14px;
+}
+dl dd{
+	font-size: 14px;
+}
+.electrocar{
+	height: 788px;
+	background: url(../img/fourDream/td-bg5.jpg) no-repeat top center;
+	position: relative;
+}
+.pText{
+	width: 1000px;
+	margin: 0 auto;
+}
+.pText h1{
+	
+	text-align: center;
+	font-size: 25px;
+	font-weight: 100;
+	position: relative;
+	padding-top:70px;
+	padding-bottom:30px ;
+	color:#888888 ;
+}
+.pText i{
+	width:97px;
+	height: 1px;
+	background: #888888;
+}
+.pText .sp2{
+
+	width:5px;
+	height: 5px;
+	background:#28a7e1;
+	display:inline-block;
+	border-radius: 50%;
+	text-align: center;
+	vertical-align: middle;
+	margin-right: 2px;
+}
+.pText p{
+	
+	font-size:14px ;
+	font-weight: 600;
+	color: #888888 ;
+}
+.sp3{
+
+	font-size:14px ;
+	color: #888888 ;
+}
+.ileft1{
+	left:330px;
+	position: absolute;
+	top:87px;
+}
+.iright2{
+	left:580px;
+	position: absolute;
+	top:87px;
+}

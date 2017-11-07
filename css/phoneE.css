@@ -1,0 +1,164 @@
+.kong{
+	width: 100%;
+	height: 0.4rem;
+}
+.swiper-container{
+	width: 100%;
+	height: 1.61rem;
+}
+.swiper-container img{
+	width: 100%;
+	height: 1.61rem;
+}
+.photoshow{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+}
+.photoshowtop{
+	width: 100%;
+	display: flex;
+	margin: 0.1rem 0;
+}
+.photoshow i{
+	display: inline-block;
+	width:0.36rem;
+	height: 0.36rem;
+	background-size:100%;
+	margin-bottom: 0.1rem;
+}
+.photoshowtop a{
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	font-size:0.14rem ;
+	color: black;
+	align-items: center;
+}
+.photoshowbottom{
+	width: 100%;
+	display: flex;	
+	margin: 0.1rem 0;
+}
+.photoshowbottom a{
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	font-size: 0.14rem;
+	color: #000;
+	align-items: center;
+}
+.is1{
+	background: url(../img/phoneE/1.png) no-repeat;
+}
+.is2{
+	background: url(../img/phoneE/2.png) no-repeat;
+}
+.is3{
+	background: url(../img/phoneE/3.png) no-repeat;
+}
+.is4{
+	background: url(../img/phoneE/4.png) no-repeat;
+}
+.is5{
+	background: url(../img/phoneE/5.png) no-repeat;
+}
+.is6{
+	background: url(../img/phoneE/6.png) no-repeat;
+}
+.is7{
+	background: url(../img/phoneE/7.png) no-repeat;
+}
+.is8{
+	background: url(../img/phoneE/8.png) no-repeat;
+}
+.is9{
+	background: url(../img/phoneE/9.png) no-repeat;
+}
+.is10{
+	background: url(../img/phoneE/10.png) no-repeat;
+}
+.efirst{
+	width: 100%;
+	background: red;
+	display: flex;
+	
+}
+.efirstLeft{
+	width: 20%;
+	text-align: center;
+	font-size: 0.24rem;
+	color:#fff;
+	font-family: "宋体";
+	font-weight: 600;
+	border-right:0.02rem solid #CCCCCC ;
+	padding: 0.1rem 0;
+}
+.efirstRight{
+	flex: 1;
+	font-size: 0.12rem;
+	color: #fff;
+	padding:0.2rem 0.1rem;
+	
+}
+.efirstRight ul{
+	display: flex;
+	height: 0.4rem;
+	flex-direction: column;
+	overflow: hidden;
+}
+.carsclass{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	background: #ccc;
+}
+.carsclass a{
+	display: inline-block;
+	width:1.88rem;
+	height:1.23rem;
+	background-size:100%;
+	margin: 0.05rem;
+}
+.as01{
+	background: url(../img/aboutUs/dm001.jpg) no-repeat;
+}
+.as02{
+	background: url(../img/aboutUs/ev001.jpg) no-repeat;
+}
+.as03{
+	background: url(../img/aboutUs/qin-0329.jpg) no-repeat;
+}
+.as04{
+	background: url(../img/aboutUs/tang-0329.jpg) no-repeat;
+}
+.carsclassTop{
+	display: flex;
+}
+.carsclassBottom{
+	display: flex;
+}
+.newExercise{
+	width: 100%;
+	background: #ccc;
+}
+.newExercise h3{	
+	color:#444444;
+	font-size: 0.18rem;
+	margin: 0 auto;
+	text-align: center;
+	margin-bottom: 0.1rem;
+}
+.case{
+	width:100%;
+	height: 1.13rem;
+}
+.case img{
+	width:100%;
+	height: 1.13rem;
+}
+.newExerciseBottom{
+	display: flex;
+	width: 100%;
+}
+
